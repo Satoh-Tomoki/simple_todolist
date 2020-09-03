@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 from django.views import View
-from .models import *
+from .models import Todolist
 
 from django.utils import timezone
 
